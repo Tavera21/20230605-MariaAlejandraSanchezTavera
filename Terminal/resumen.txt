@@ -1,0 +1,5 @@
+1 git init
+2 git clone
+3 git branch nombrerama
+4 git commit -m "mensaje"
+5 git push origin main 
